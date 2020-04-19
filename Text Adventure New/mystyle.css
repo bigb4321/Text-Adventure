@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #007c5b;
+    color: #ffffff;
+    font-size: 50px;
+}
+input[type="text"] {
+    text-align: center;
+    font-size: 17px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 255, 255);
+    font-family: sans-serif;
+    border-radius: 30px;
+    border: 1;
+    border-width: 5px;
+    border-color: rgb(0, 255, 255);
+    border-style: solid;
+    width: 200px;
+    height: 25px;
+    font-weight: bold;
+}
+
+.button, button, input[type="button"] {
+    text-align: center;
+    font-size: 17px;
+    background-color: aqua;
+    color: #000583;
+    font-family: sans-serif;
+    border-radius: 30px;
+    border: 1;
+    border-width: 5px;
+    border-color: #ffce00;
+    border-style: solid;
+    width: 300px;
+    height: 50px;
+    font-weight: bolder;
+}
+#startBut {
+    text-align: center;
+    font-size: 50px;
+    background-color: aqua;
+    color: #000583;
+    font-family: sans-serif;
+    border-radius: 30px;
+    border: 5;
+    border-width: 20px;
+    border-color: #ffce00;
+    border-style: solid;
+    width: 750px;
+    height: 200px;
+    font-weight: bolder;
+}
+#alertDiv {
+    color: red;
+    font-size: 30px;
+}
