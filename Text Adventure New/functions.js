@@ -78,7 +78,7 @@ function mtnPath() {
     
 function cityPath() {
     clear();
-    
+    document.getElementById("qO").innerHTML = "You chose to go to the city, but this is a work in progress.";
 }
 function mountainQ() {
     clear();
